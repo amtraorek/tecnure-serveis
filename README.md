@@ -195,5 +195,5 @@ All technical documentation is in the [`/docs`](./docs/) folder:
 **Amadou Traore Keita**
 Future ASIR student · Cloud · Cybersecurity · Sysadmin
 📜 Certifications: SC-900 · AI-900 · CSST Cybersecurity · (in progress: AZ-900, AZ-104, CCST Networking)
-🔗 [LinkedIn](https://www.linkedin.com/in/amadou-traore-keita)
+🔗 [LinkedIn](https://www.linkedin.com/in/amtraorek)
 🐙 [GitHub](https://github.com/amtraorek)
