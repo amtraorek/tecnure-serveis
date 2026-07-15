@@ -12,7 +12,7 @@
 > **Calificación final: 10/10** · SMR (Sistemas Microinformáticos y Redes) · IES Thos i Codina · Mataró · 2025–2026
 
 ---
-
+![Estructura del proyecto](diagrama-infraestructura-v2.png)
 ## 📋 Descripción del proyecto
 
 **Tecnure Serveis** es una consultora informática ficticia creada como proyecto final transversal de **2.º curso de SMR**. El proyecto consiste en la **implantación completa de un departamento de informática desde cero** para **Grup Alimentari Guissona**, una cooperativa agroalimentaria catalana con más de **4.300 empleados** y una facturación anual superior a **15 millones de euros**.
@@ -58,7 +58,6 @@ Raspberry Pi 4 · Debian              Windows Server
         ├── n8n → auto.guissona.test
         └── ProFTPD → sftp.guissona.test
 ```
-
 ---
 
 ## 🔧 Tecnologías
@@ -76,7 +75,7 @@ Raspberry Pi 4 · Debian              Windows Server
 | Servicio | Tecnología | URL | Entorno |
 |----------|------------|-----|----------|
 | Página web corporativa | WordPress | `guissona.ddns.net` | Público |
-| Certificados SSL | Let's Encrypt | Todos los dominios | Público |
+| Certificados SSL | Let's Encrypt | `guissona.ddns.net` | Público |
 | Correo corporativo | Postfix + Rainloop | `correu.guissona.test` | Privado |
 | Almacenamiento corporativo | Nextcloud | `drive.guissona.test` | Privado |
 | FTP Seguro | ProFTPD | `sftp.guissona.test` | Privado |
@@ -125,47 +124,7 @@ Raspberry Pi 4 · Debian              Windows Server
 
 ---
 
-## 📁 Estructura del Repositorio
 
-```text
-tecnure-serveis/
-│
-├── README.md
-├── docs/
-│   ├── memoria-tecnica.pdf          # Memoria técnica completa (90+ páginas)
-│   └── presentacion.pdf             # Presentación del proyecto
-│
-├── diagrama/
-│   └── arquitectura.png             # Diagrama completo de la infraestructura
-│
-├── infraestructura/
-│   ├── red/                         # Diagramas de red, tablas IP y VLAN
-│   └── active-directory/            # Estructura OU, GPO y usuarios
-│
-├── servicios/
-│   ├── apache2-reverseproxy/        # Virtual Hosts y configuración SSL
-│   ├── dns-bind9/                   # Zonas DNS internas (.test)
-│   ├── vpn-wireguard/               # Configuración WireGuard
-│   ├── nextcloud/                   # Instalación Nextcloud
-│   ├── wordpress/                   # WordPress + SSL
-│   ├── rainloop/                    # Configuración Webmail
-│   └── monitorizacion/              # Grafana, Prometheus y Graylog
-│
-├── seguridad/
-│   ├── wazuh/                       # Configuración del agente y servidor AWS
-│   ├── suricata/                    # Reglas IDS/IPS
-│   ├── fail2ban/                    # Jails configurados
-│   ├── lynis/                       # Resultados de auditoría (80/100)
-│   └── pentesting/                  # Pruebas realizadas con Kali Linux
-│
-├── automatizacion/
-│   └── n8n/                         # Flujos SOAR y automatizaciones
-│
-└── backup/
-    └── bacula/                      # Trabajos, programación y configuración de Bacularis
-```
-
----
 
 ## 📊 Resultados Obtenidos
 
@@ -179,14 +138,7 @@ tecnure-serveis/
 
 ---
 
-## 📄 Documentación
 
-Toda la documentación técnica se encuentra en la carpeta [`/docs`](./docs/):
-
-- **Memoria técnica** (90+ páginas): diseño, implementación y pruebas de todos los servicios.
-- **Presentación** (17 diapositivas): resumen visual del proyecto.
-
----
 
 ## 🎓 Contexto Académico
 
@@ -209,7 +161,7 @@ Futuro estudiante de ASIR · Cloud · Ciberseguridad · Administrador de Sistema
 - SC-900
 - AI-900
 - Cisco CCST Cybersecurity
-- En progreso: AZ-900 · AZ-104 · Cisco CCST Networking
+- En progreso: AZ-900 · AWS Cloud Practitioner
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/amtraorek
 
