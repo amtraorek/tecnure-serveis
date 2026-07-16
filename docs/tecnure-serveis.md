@@ -12,7 +12,7 @@ Actúa como departamento tecnológico externo, asumiendo las funciones de un dep
 | **Metodología** | Proximidad, escalabilidad e implementación de soluciones de código abierto |
 | **Cliente del proyecto** | [Grup Alimentari Guissona](./ga-guissona.md) |
 
-![Tecnure Serveis](../capturas/08-empresa/ts-presentacio.png)
+![Tecnure Serveis](../screenshots/08-empresa/ts-presentacio.png)
 ## Servicios ofrecidos y especialización
 
 - **Infraestructura de Redes:** diseño, segmentación y configuración de topologías robustas para entornos industriales

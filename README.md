@@ -30,7 +30,7 @@ Tecnure Serveis actuó como proveedor tecnológico externo, asumiendo todas las 
 
 ---
 ## 🖥️ Hardware
-![Raspberry](capturas/00-server/raspberry.jpg)
+![Raspberry](screenshots/00-server/raspberry.jpg)
 
 | Componente | Detalle |
 |---|---|

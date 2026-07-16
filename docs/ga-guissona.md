@@ -13,7 +13,7 @@ El **Grup Alimentari Guissona** es una empresa privada del sector ramadero y de 
 | **Ámbito de actuación** | Nacional (España) |
 | **Marca comercial** | bonÀrea |
 
-![Anàlisis del cliente](../capturas/08-empresa/ga-analisi-client.png)
+![Anàlisis del cliente](../screenshots/08-empresa/ga-analisi-client.png)
 
 ## Actividad
 
@@ -34,7 +34,7 @@ La empresa se divide en seis grandes departamentos:
 | **Servicios y Energía** | Coordinación de bonÀrea Energía, Seguros y Telecom, gestión de residuos energéticos |
 | **Administrativo** | Finanzas y contabilidad, RRHH, sistemas informáticos |
 
-![Anàlisis del cliente](../capturas/08-empresa/ga-organigrama.png)
+![Anàlisis del cliente](../screenshots/08-empresa/ga-organigrama.png)
 ## Necesidad tecnológica
 
 Dado el volumen de actividad, la complejidad operativa y el tamaño de la plantilla, el Grup Alimentari Guissona requiere una infraestructura tecnológica robusta, segura y escalable que garantice la continuidad del negocio y la integridad de sus datos en todo momento.
