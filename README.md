@@ -164,3 +164,21 @@ Raspberry Pi 4 · Debian              Windows Server
 - **Calificación:** **10/10 ✨**
 - **Autores:** Amadou Traore Keita y Willy Anthony Machuca Sierra
 
+---
+
+## 📬 Contacto
+
+**Amadou Traore Keita**
+
+Futuro estudiante de ASIR · Cloud · Ciberseguridad · Administrador de Sistemas
+
+📜 **Certificaciones**
+
+- SC-900
+- AI-900
+- Cisco CCST Cybersecurity
+- En progreso: AZ-900 · AWS Cloud Practitioner
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/amtraorek
+
+🐙 **GitHub:** https://github.com/amtraorek
