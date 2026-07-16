@@ -44,7 +44,7 @@ Tecnure Serveis actuó como proveedor tecnológico externo, asumiendo todas las 
 | **Sistema operativo** | Debian 12 (Bookworm) |
 | **Arquitectura** | ARM64 (aarch64) |
 | **Dirección IP interna** | 10.3.2.200/24 |
-| **Ubicación** | Sala de servidores (nodo central) |
+| **Ubicación** | Casa |
 | **Función principal** | Servidor principal de la infraestructura |
 ## 🏗️ Arquitectura
 
